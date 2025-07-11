@@ -1,0 +1,7 @@
+.questionario{
+    display: block;
+    padding: 50px 25px;
+    width: max-content;
+    max-width: 100%;
+    margin: 0 auto;
+}
